@@ -8,13 +8,13 @@ This project was developed as part of the **Problem Solving and Programming (PPS
 ---
 
 ## 👥 Collaborators
-| No | Name | Student ID 
+| No | Student ID | Name 
 |----|------|-------------
-| 1 | Wan Izz Dhia Akashah bin Wan Mohd. Salihin | 1211103651 
-| 2 | Insyirah Najihah binti Abdul Rahim | 1211101523 
-| 3 | Noor Alia Alisa binti Kamal | 1211103754 
-| 4 | Nur Maisarah binti Mohammad Saifrol | 1211100633  
-| 5 | Lee Shun Jie | 1211101529 
+| 1 | 1211103651 | Wan Izz Dhia Akashah bin Wan Mohd. Salihin 
+| 2 | 1211101523 | Insyirah Najihah binti Abdul Rahim
+| 3 | 1211103754 | Noor Alia Alisa binti Kamal
+| 4 | 1211100633 | Nur Maisarah binti Mohammad Saifrol
+| 5 | 1211101529 | Lee Shun Jie 
 
 **Supervisor:** Madam Mawar binti Madiah
 
