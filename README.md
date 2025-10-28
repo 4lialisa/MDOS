@@ -16,8 +16,6 @@ This project was developed as part of the **Problem Solving and Programming (PPS
 | 4 | 1211100633 | Nur Maisarah binti Mohammad Saifrol
 | 5 | 1211101529 | Lee Shun Jie 
 
-**Supervisor:** Madam Mawar binti Madiah
-
 ---
 
 ## 🎯 Project Purpose
